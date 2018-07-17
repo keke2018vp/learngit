@@ -3,3 +3,5 @@
  Git is free software distributed under the GPL.
  Git 是一个免费软件。
  Git has a mutable index called stage.
+ Git tracks changes of files.
+
