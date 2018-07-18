@@ -8,3 +8,4 @@
  Creating a new branch is quick and simple
 
  by dev
+ 开发工作中突然接到修复BUG的任务，临时存储工作区内容在stash上。
